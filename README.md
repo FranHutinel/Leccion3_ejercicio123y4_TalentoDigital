@@ -6,7 +6,7 @@ de esta frma cambiaremos el color de fondo de la página a un <lightblue>, modif
 para que la fuente sea de color rojo, y para la imagen que agregamos en el ejercicio anterior, debemos
 definir un ancho de 400px, un alto de 300px, quedar centrada y con margen automático.
 
-Agrupación del proyecto
+Agrupación del proyecto:
 
 🚀La estructura de carpetas del proyecto es la siguiente:
 
